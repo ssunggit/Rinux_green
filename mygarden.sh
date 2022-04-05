@@ -4,6 +4,6 @@
 #git repository 위치로 이동
 cd /home/hyunsung/git_test/mygarden
 git add .
-git commit -m “crontab commit"
+git commit -m "crontab commit"
 git push
 exit 0
